@@ -3,6 +3,10 @@
 ## ℹ️ Description
 This is A compact 3d portfolio built with Three.js, React, Tailwind CSS and Typescript
 
+## 🧬 Live Site
+
+https://threejs-3d-portfolio.netlify.app/
+
 ## 🔮 Tech Stack
 
 - Three.js
